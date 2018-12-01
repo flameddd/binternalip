@@ -1,6 +1,6 @@
 {
   "name": "binternalip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Browser side get User's internal IP",
   "main": "lib/binternalip.js",
   "scripts": {
@@ -13,13 +13,11 @@
     "url": "https://github.com/flameddd/binternalip.git"
   },
   "keywords": [
-    "webpack",
-    "es6",
-    "starter",
-    "library",
-    "universal",
-    "umd",
-    "commonjs"
+    "browser",
+    "internal IP",
+    "ip address",
+    "LAN IP",
+    "local IP"
   ],
   "author": "Krasimir Tsonev",
   "license": "MIT",
