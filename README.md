@@ -15,10 +15,11 @@ import binternalip from 'binternalip';
 
 binternalip
   .then(function (internalIP) {
-    console.log('interanlIP => ' + internalIP) // interanlIP => 10.xx.xx.xxx
+    console.log('interanlIP => ' + internalIP)
+    // interanlIP => 10.xx.xx.xxx
   })
 
 ```
 
 ## Browsers support check!!!
-[canisue RTCPeerConnection](https://caniuse.com/#search=RTCPeerConnection)
+[canisue search "RTCPeerConnection"](https://caniuse.com/#search=RTCPeerConnection)
