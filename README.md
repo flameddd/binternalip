@@ -2,9 +2,9 @@
 
 ## install
 ```
-npm install --save internalip
+npm install --save binternalip
 // or
-yarn add internalip
+yarn add binternalip
 ```
 
 ## how to use
