@@ -1,6 +1,6 @@
 {
   "name": "binternalip",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Browser side get User's internal IP",
   "main": "lib/binternalip.js",
   "scripts": {
